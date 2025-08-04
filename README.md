@@ -1,2 +1,2 @@
-# Plant-Diagnoser-Tool---Frontend-and-Django
-#This project is aimed to diagnose the plants which are infected with diseases which can be seen or which cannot be seen but affect the growth of the plant and suggest better medicines for the plants
+# Digital Identity and Credential Platform for refugees and displaced people---Frontend-and-Django
+#This project is aimed to provide people who have been deported from other countries or coming to our country without proper identity to make them elgible for government schemes and bank related processes
